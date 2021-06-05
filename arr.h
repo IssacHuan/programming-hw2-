@@ -1,0 +1,2 @@
+int * Barr();
+void Qarr();
